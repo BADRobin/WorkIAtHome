@@ -8,7 +8,7 @@ public class View {
     public static final String WRONG_INPUT_WORD_DATA = "Wrong input!!! Do better please -> ";
     public static final String OUR_TEXT = "Text is  = ";
 
-    public void printMassage(String massage) {
+    public static void printMassage(String massage) {
         System.out.println(massage);
     }
 
